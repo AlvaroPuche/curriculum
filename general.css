@@ -389,7 +389,7 @@
         width: 150px;
         height: 150px;
         margin-left: auto;
-        margin-right: auto;
+        margin-right: 15%;
         border-radius: 20px;
         border-top: 10px solid white;
     }
